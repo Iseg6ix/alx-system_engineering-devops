@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#This program displays proccesses containing 'bash' word
+
+ps -aux | grep bash
