@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #This program displays all running proccess
 
-ps
+ps -auxf
