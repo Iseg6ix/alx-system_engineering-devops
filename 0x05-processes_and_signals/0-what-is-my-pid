@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#This program prints its own pid
+
+echo $$
